@@ -1,2 +1,2 @@
 # ansible-hostname
-Simple ansible with hostnames
+Simple ansible role to change hostnames
